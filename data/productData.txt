@@ -1,0 +1,21 @@
+100#Poppy Seed Lemon Crunch Cake#http://localhost/shoppingCartProject/images/0.jpg#550.00#0#15#1000
+101#Passion Fruit Cake#http://localhost/shoppingCartProject/images/1.jpg#650.00#0#15#1000
+102#Berry Cake#http://localhost/shoppingCartProject/images/2.jpg#650.00#0#15#1000
+103#Blueberry Cake#http://localhost/shoppingCartProject/images/3.jpg#650.00#0#15#1000
+104#Blue Velvet Cake#http://localhost/shoppingCartProject/images/4.jpg#625.00#0#25#1000
+105#Pink Velvet Cake#http://localhost/shoppingCartProject/images/5.jpg#625.00#0#25#1000
+106#Purple Velvet Cake#http://localhost/shoppingCartProject/images/6.jpg#625.00#0#25#1000
+107#Blue Coated Personalised Rainbow Cake#http://localhost/shoppingCartProject/images/7.jpg#620.00#0#15#1000
+108#Purple Ombre Naked Cake#http://localhost/shoppingCartProject/images/8.jpg#475.00#0#30#1000
+109#Pink Ombre Naked Cake#http://localhost/shoppingCartProject/images/9.jpg#475.00#0#30#1000
+110#Blue Ombre Naked Cake#http://localhost/shoppingCartProject/images/10.jpg#475.00#0#30#1000
+111#Hummingbird Carrot Cake#http://localhost/shoppingCartProject/images/11.jpg#415.00#0#30#1000
+112#Chocolate Cake#http://localhost/shoppingCartProject/images/12.jpg#415.00#0#30#1000
+113#Red Velvet Cake#http://localhost/shoppingCartProject/images/13.jpg#415.00#0#30#1000
+114#Candy Sticks Cake#http://localhost/shoppingCartProject/images/14.jpg#415.00#0#25#1000
+115#Gold Velvet Cake#http://localhost/shoppingCartProject/images/15.jpg#595.00#0#35#1000
+116#Silver Velvet Cake#http://localhost/shoppingCartProject/images/16.jpg#595.00#0#35#1000
+117#White Coated Personalised Rainbow Cake#http://localhost/shoppingCartProject/images/17.jpg#558.00#0#12#1000
+118#Lemon Meringue Velvet Cupcake#http://localhost/shoppingCartProject/images/99.jpg#200.00#0#15#2000
+119#Rainbow Velvet Cupcake#http://localhost/shoppingCartProject/images/98.jpg#200.00#0#15#2000
+120#Chocolate Velvet Cupcake#http://localhost/shoppingCartProject/images/97.jpg#250.00#0#20#2000
